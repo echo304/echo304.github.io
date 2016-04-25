@@ -17,8 +17,12 @@ url: "http://echo304.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion
+markdown:    kramdown
 highlighter: rouge
+
+# Build settings
+kramdown:
+  input: GFM
+  

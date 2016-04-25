@@ -1,4 +1,7 @@
-<h1>About Node.js</h1>
+---
+layout: post
+title:  "About Node"
+---
 
 1. Event loop: What exactly non-blocking I/O is?
 2. Global and Process: How to access more info
