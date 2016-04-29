@@ -3,6 +3,8 @@ layout: post
 title:  "Useful Resources"
 ---
 
+If you have useful resources, please let me know. 
+
 <h3>Blog</h3>
 <li><a target="_blank" href="https://ponyfoo.com/">Ponyfoo.com</a></li>
 <li><a target="_blank" href="http://www.2ality.com/">2ality</a></li>
@@ -21,6 +23,11 @@ title:  "Useful Resources"
 <li><a target="_blank" href="https://leanpub.com/understandinges6/read">Understanding ECMAScript 6</a></li>
 <li><a target="_blank" href="https://leanpub.com/javascriptallongesix/read#simple-partial">Javascript Allonge</a> (Yay, Functional Programming!)</li>
 
+<h3>Newsletter</h3>
+<li><a href="http://javascriptweekly.com/" target="_blank">Javascript Weekly</a></li>
+<li><a href="http://nodeweekly.com/" target="_blank">Node Weekly</a></li>
+<li><a href="http://reactjsnewsletter.com/" target="_blank">React.js Newsletter</a></li>
+<li><a href="http://frontendnewsletter.com/" target="_blank">Front End Newsletter</a></li>
 
 <h3>Others</h3>
 <li><a target="_blank" href="https://github.com/petehunt/react-howto?utm_campaign=linkplug&utm_source=linkplug&utm_medium=linkplug&utm_content=linkplug&utm_term=linkplug#learning-npm">React-Howto</a></li>
@@ -29,3 +36,4 @@ title:  "Useful Resources"
 <li><a target="_blank" href="https://scotch.io/">Scotch.io</a></li>
 <li><a target="_blank" href="http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/">Git Cheat Sheet</a></li>
 <li><a target="_blank" href="http://es6-features.org/">ES6 New Feature</a></li>
+<li><a href="http://www.codewars.com/" target="_blank">CodeWars</a> (Game-like Code Challenge)</li>
