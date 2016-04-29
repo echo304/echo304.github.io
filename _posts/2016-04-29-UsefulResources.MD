@@ -14,6 +14,7 @@ title:  "Useful Resources"
 <h3>Article</h3>
 <li><a target="_blank" href="https://psdtowp.net/learn-javascript.html">Best methods to learn JS</a></li>
 <li><a target="_blank" href="http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/">Introduction to ES6 Promises</a></li>
+<li><a target="_blank" href="https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.jxr27gxol">What open source project should I countribute to?</a></li>
 
 <h3>Book</h3>
 <li><a target="_blank" href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS</a></li>
