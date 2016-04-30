@@ -20,6 +20,7 @@ If you have useful resources, please let me know.
 <li><a href="http://michaelcheng.io/2015/03/22/4-javascript-instantiation-patterns-part-1-functional-instantiation-and-functional-instantiation-with-shared-methods/" target="_blank">4 JavaScript Instantiation Patterns</a></li>
 <li><a href="http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/">Understand JavaScript's "this"</a></li>
 <li><a href="http://www.gajotres.net/prevent-jquery-multiple-event-triggering/" target="_blank">Prevent jQuery events from firing multiple times</a></li>
+<li><a href="https://www.nczonline.net/blog/tag/computer-science/" target="_blank">Data-Structue & Algorithm</a></li>
 
 
 <h3>Book</h3>
