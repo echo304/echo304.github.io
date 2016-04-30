@@ -42,3 +42,4 @@ If you have useful resources, please let me know.
 <li><a target="_blank" href="http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/">Git Cheat Sheet</a></li>
 <li><a target="_blank" href="http://es6-features.org/">ES6 New Feature</a></li>
 <li><a href="http://www.codewars.com/" target="_blank">CodeWars</a> (Game-like Code Challenge)</li>
+<li><a href="https://www.iterm2.com/" target="_blank">iTerm 2</a> You're gonna need it when you start to learn Back-End</li> 
