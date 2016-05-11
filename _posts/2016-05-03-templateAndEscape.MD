@@ -7,7 +7,7 @@ When you build a web application, sometimes you need to add a DOM node directly 
 
 <h3>template <small>_.template(templateString, [settings])</small></h3>
 
-Let's move on to the <a href="http://underscorejs.org/#template" target="_blank">document</a>.
+Let's move on to the <a href="http://underscorejs.org/#template" target="_blank">documentation</a>.
 
 > Compiles JavaScript templates into functions that can be evaluated for rendering. Useful for rendering complicated bits of HTML from JSON data sources. Template functions can both interpolate values, using <%= … %>, as well as execute arbitrary JavaScript code, with <% … %>. If you wish to interpolate a value, and have it be HTML-escaped, use <%- … %>.
 

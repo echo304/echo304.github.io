@@ -94,19 +94,13 @@ $ jekyll new . --force
 
 Jekyll comes with a built-in development server that will allow you to preview what the generated site will look like in your browser locally.
 
-{% highlight sh %}
-http://localhost:4000
-{% endhighlight %}
+`http://localhost:4000`
 <br>
 <br>
 
 <h3>Github as a Storage</h3>
 Before move on, make sure you have your own Github account.
-Login with your account, create new repository your blog url with the account name. Here's an example. (You don't need to care about settings there, just create one)
-<br>
-{% highlight sh %}
-echo304.github.io
-{% endhighlight %}
+Login with your account, create new repository your blog url with the account name. Here's an example. `echo304.github.io` <br>(You don't need to care about settings there, just create one)
 <br>
 <br>
 that's all what you have to do on Github website. 
@@ -131,9 +125,8 @@ $ git push origin master
 <br>
 <br>
 And here comes your Blog! You made it!
-{% highlight sh %}
-http://youracount.github.io/
-{% endhighlight %}
+<br>
+`http://youracount.github.io/`
 
 You can post new article or modify exist post(Welcome to Jekyll!) by editing a file inside <strong>_post</strong> directory.
 Make sure don't change file format or front-matter of the file!
