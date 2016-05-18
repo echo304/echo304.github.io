@@ -111,7 +111,7 @@ server.listen(1337);
 
 <br>
 <br>
-<h2>Cluster</h2>
+<h2><a href="http://echo304.github.io/2016/05/17/Cluster.html" target="_blank">Cluster</a></h2>
  + Will allows to utilize all CPU power of each Machine (e.g. Workers)
  + Will allows to scale Node programs vertically
  + To see the workers serving different request, use `loadtest` testing tool <br />
