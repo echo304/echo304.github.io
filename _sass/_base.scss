@@ -20,7 +20,9 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-weight: $base-font-weight;
+    font-family: ‘Ubuntu’, Arial, serif;
+    font-weight: 400;
     font-size: 15px;
     line-height: 1.42857143;
     color: #777777;
@@ -102,7 +104,8 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+    font-family: ‘Ovo’, Arial, serif;
+    font-weight: 400;
 }
 
 
