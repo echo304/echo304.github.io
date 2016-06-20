@@ -115,7 +115,7 @@ body {
     font-family: Roboto, sans-serif;
     font-size: 20px;
     line-height: 1.42857143;
-    color: #303f9f;
+    color: #212121;
     background-color: #fff
 }
 
@@ -760,7 +760,7 @@ aside #recent-comments-section {
 }
 
 .post .post-title a {
-    color: #303f9f;
+    color: #212121;
     text-decoration: none
 }
 
@@ -774,7 +774,7 @@ aside #recent-comments-section {
 }
 
 .post .post-content {
-    color: #303f9f
+    color: #212121
 }
 
 .post .post-reading-link {
@@ -833,6 +833,7 @@ aside #recent-comments-section {
 
 #site-header #avatar-container #author-picture {
     width: 100px;
+    margin: 10px 0px;
     border-radius: 50px
 }
 
@@ -850,7 +851,7 @@ aside #recent-comments-section {
 }
 
 #site-header #avatar-container nav a {
-    color: #919496;
+    color: #c5cae9;
     text-decoration: none
 }
 
@@ -865,7 +866,7 @@ aside #recent-comments-section {
         position: fixed;
         top: 0;
         width: 250px;
-        color: #757575;
+        color: #bdbdbd;
         background-color: #303f9f;
         border-right: 1px solid rgba(0, 0, 0, .14)
     }
@@ -881,7 +882,7 @@ aside #recent-comments-section {
         height: 40px
     }
     #site-header #nav-container nav li a {
-        color: #919496;
+        color: #c5cae9;
         display: inline-block;
         text-decoration: none;
         width: 100%;
@@ -899,7 +900,7 @@ aside #recent-comments-section {
         border-top: 1px solid rgba(0, 0, 0, .14)
     }
     #site-header footer a {
-        color: #919496;
+        color: #c5cae9;
         text-decoration: none
     }
     #site-header footer .fa-heart {
