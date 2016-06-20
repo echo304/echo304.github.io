@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# Author info
+author:
+  name: Sangboak Lee
+  description: Javascript Enthusiast, Passionate Learner
+  picture: /assets/images/avatar.jpg
+  favicon: /assets/images/favicon.png
+
 # Site settings
 title: "Echo304 Blog"
 email: "echo3042@gmail.com"
@@ -23,4 +30,8 @@ highlighter: rouge
 # Build settings
 kramdown:
   input: GFM
-  
+
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "/page:num/"
+excerpt_separator: <!--excerpt_separator-->

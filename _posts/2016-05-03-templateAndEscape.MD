@@ -4,6 +4,7 @@ title:  "_.template Method (Underscore.js)"
 ---
 
 When you build a web application, sometimes you need to add a DOM node directly to the DOM tree. <a href="http://underscorejs.org/" target="_blank">Underscore.js</a> provides _.template methods that allows you to easily create a DOM node with templating feature, so that you can add DOM node to DOM tree without a pain. Additionally, _.template methods also provide HTML escape feature that prevent your client from being messed by bad guys. 
+<!--excerpt_separator-->
 
 <h3>template <small>_.template(templateString, [settings])</small></h3>
 

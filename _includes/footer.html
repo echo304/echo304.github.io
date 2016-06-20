@@ -7,29 +7,28 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            <a href="https://github.com/echo304" target="_blank">
+              <i class="fa fa-github"> echo304</i>
+            </a>
           </li>
-          {% endif %}
 
-          {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a href="https://www.linkedin.com/in/echo304" target="_blank">
+              <i class="fa fa-linkedin"> echo304</i>
+            </a>
           </li>
-          {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <p>Javascript Enthusiast, Passionate Learner</p>
       </div>
     </div>
 

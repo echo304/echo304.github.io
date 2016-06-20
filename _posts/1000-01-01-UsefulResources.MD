@@ -4,6 +4,7 @@ title:  "Useful Resources"
 ---
 
 If you have useful resources, please let me know. 
+<!--excerpt_separator-->
 
 <h3>Blog</h3>
 <li><a target="_blank" href="https://ponyfoo.com/">Ponyfoo.com</a></li>

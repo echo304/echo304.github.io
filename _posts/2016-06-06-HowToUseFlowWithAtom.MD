@@ -4,6 +4,8 @@ title:  "Flow - Lightweight Type checker"
 ---
 
 JavaScript is one of the language that easy to learn thesedays because very flexible nature of the language. The Flexibility of JavaScript consist of many factors including its loose type checking which sometime cause unexpected result and sometimes comes in handy. 
+
+<!--excerpt_separator-->
 <br>
 {% highlight javascript %}
 var a = 1;
