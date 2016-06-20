@@ -23,4 +23,8 @@ highlighter: rouge
 # Build settings
 kramdown:
   input: GFM
-  
+
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "/page:num/"
+excerpt_separator: <!--excerpt_separator-->

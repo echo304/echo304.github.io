@@ -6,6 +6,8 @@ description: "How to use Mocha, Istanbul and Nodemon with Gulp for server-side t
 
 In 2016, <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">Test Driven Development(TDD)</a> is no longer brand new concept. Because of that reason, TDD and importance of Testing will not be covered in this article. I'm going to introduce how to automated the server-side testing and test coverage reporting with Gulp-the task runner.
 
+<!--excerpt_separator-->
+
 Like TDD and Testing, the task runner is not in the scope today. So let me briefly talk about task runner.
 
 JavaScript has two main players of task runner that helps developer automate repetitive simple task, which increase efficiency of work flow and productivity. 
