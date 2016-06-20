@@ -487,15 +487,15 @@ aside #recent-comments-section {
     }
     #page-content {
         margin: 0 auto;
-        max-width: 990px
+        max-width: 1290px
     }
     #page-content #content {
         float: left
     }
     #page-content aside {
         float: left;
-        max-width: 250px;
-        padding-left: 25px
+        max-width: 350px;
+        padding-left: 75px
     }
 }
 
@@ -878,8 +878,11 @@ aside #recent-comments-section {
         padding: 24px 0
     }
     #site-header #nav-container nav li {
-        line-height: 40px;
-        height: 40px
+        line-height: 60px;
+        height: 60px
+    }
+    #site-header #nav-container nav ul {
+        margin-right: 30px;
     }
     #site-header #nav-container nav li a {
         color: #c5cae9;
