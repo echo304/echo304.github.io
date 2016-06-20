@@ -4,13 +4,11 @@ title:  "Logs like Hacker"
 ---
 
 <a href="https://egghead.io/series/js-console-for-power-users" target="_blank"><em>This Post is written after watching this Egghead.io video lecture</em></a>
-
-<br><br><br>
-<h3>Do you Log all day?</h3>
 <br>
-`console.log` is called Debugger for the Poors. Even though it is not the best debugging tool, definitely the most common debugging tool. The reason is simple. Because it's very handy. You can log something on the Dev. console with `console.log( /* something */ )`
 
+`console.log` is called Debugger for the Poors. Even though it is not the best debugging tool, definitely the most common debugging tool. The reason is simple. Because it's very handy. You can log something on the Dev. console with `console.log( /* something */ )`
 <!--excerpt_separator-->
+
 <br>
 <br>
 (OK, let's open your Dev. console) <br>
