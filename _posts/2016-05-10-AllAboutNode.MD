@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "About Node"
+description: "Simple summary about node/nodejs/node.js"
+permalink: whatIsNode
 ---
 
 > Node.js is JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.

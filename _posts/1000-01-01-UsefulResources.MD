@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Useful Resources"
+description: "some useful resources"
+permalink: resources
 ---
 
 If you have useful resources, please let me know. 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Logs like Hacker"
+description: "Smart way to user console.log and his friends"
+permalink: logsLikeHacker
 ---
 
 <a href="https://egghead.io/series/js-console-for-power-users" target="_blank"><em>This Post is written after watching this Egghead.io video lecture</em></a>

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Flow - Lightweight Type checker"
+description: "Flow is a open-source static type checker for JavaScript. It improves developer productivity and code quality. By checking type of the variables, function arguments, return values and more, common bugs in JS application can be caught before it runs including below problem"
+permalink: flowTheTypeChecker
 ---
 
 JavaScript is one of the language that easy to learn thesedays because very flexible nature of the language. The Flexibility of JavaScript consist of many factors including its loose type checking which sometime cause unexpected result and sometimes comes in handy. 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "How to start Blog with Github and Jekyll Pt.1"
+description: "How to start Blog with Github and Jekyll Pt.1"
+permalink: startBlog
 ---
 Recently, there are tons of tool and framework that help you to have your own blog. Even if you don't have any experience of blogging like me, you don't need to worry about that. Jekyll comes to rescue you. In this article, I briefly introduce what Jekyll is and share <strong>"practical"</strong> tutorials to start Blogging with Jekyll.
 <!--excerpt_separator-->
