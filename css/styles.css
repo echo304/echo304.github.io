@@ -460,7 +460,7 @@ aside section ul li span.disqus-author {
 }
 
 aside section ul li a {
-    font-size: 1em
+    font-size: .8em
 }
 
 aside #recent-comments-section {
@@ -480,7 +480,7 @@ aside #recent-comments-section {
     }
 }
 
-@media (min-width:992px) {
+@media (min-width:892px) {
     #page-wrap {
         padding-left: 350px;
         width: 100%
@@ -494,8 +494,8 @@ aside #recent-comments-section {
     }
     #page-content aside {
         float: left;
-        max-width: 550px;
-        padding-left: 100px
+        max-width: 450px;
+        padding-left: 700px
     }
 }
 
