@@ -31,7 +31,7 @@ highlighter: rouge
 kramdown:
   input: GFM
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
 paginate: 10
 paginate_path: "/page:num/"
 excerpt_separator: <!--excerpt_separator-->
