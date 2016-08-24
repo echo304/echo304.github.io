@@ -9,8 +9,21 @@ permalink: CSharpOnMac
 <!--excerpt_separator-->
 
 But thanks to <a href="http://www.mono-project.com/">Mono Project</a>, Mac users are now allowed to develop an application on their machine with C#, although there are some compatibility issue about Mono project. Technically Mono is an open-source implementation of Microsoft's .NET framework that allows developers to create cross platform application.
+<br>
+<br>
+<h4>Step</h4>
+1. Download Mono for OSX <a href="http://www.mono-project.com/download/">Here</a><br>
+2. Download Xamarin Studio Community  for OSX <a href="https://www.xamarin.com/download">Here</a><br>
+<br>
 
-Step 1. Download Mono for OSX <a href="http://www.mono-project.com/download/">Here</a>
-Step 2. Download Xamarin Studio Community  for OSX <a href="https://www.xamarin.com/download">Here</a>
+Xamarin Studio is minor downgraded version of Visual Studio which is well known IDE for C#. But even though Xamarin Studio has some missing parts, it's extremely powerful and convenient tool to develop C#(shout out to InteliSence!)
+
+Well, this is all for today's post. Actually, I've started to learn C# for the coding exercise I've got from Amazon. And I've written this post to help other developer who want to start using C# on their Mac without installing VM or buying Windows.
+
+Happy Coding!
+
+
+
+
 
 
