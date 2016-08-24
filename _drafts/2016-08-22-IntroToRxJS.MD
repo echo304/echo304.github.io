@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Change Entry point of React-native App"
-description: "React-native provide convenient CLI tool to start developement. But how to change entry point of react-native?"
-permalink: reactNative-change-entrypoint
+title:  "Introduction to RxJS"
+description: "Reactive Programming, stream, observable and brief introduction to RxJS"
+permalink: introductionToRxJs
 ---
 
-<a href="https://facebook.github.io/react-native/" target="_blank">React Native</a> is a framework for building native application using <a href="https://facebook.github.io/react/" target="_blank">React</a>.
+<a href="http://reactivex.io/" target="_blank">Reactive Extension</a> is a library for composing asynchronous and event-based programs by using observable.
 
+What is Observables?
+The RX's Observable is a stream that emit data asynchronously and continuously over time. Which means that Observables allow developers to work with
 
-how to change entry point of react-native application.
+Then what is reactive programming?
 
 <!--excerpt_separator-->
